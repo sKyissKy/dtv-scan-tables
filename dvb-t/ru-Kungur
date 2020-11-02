@@ -1,11 +1,11 @@
-# Scan tables for DVB-T2 channels in Perm (Russia)
-# Created from https://карта.ртрс.рф/rtrs/node/2496
+# Scan tables for DVB-T2 channels in Kungur (Russia)
+# Created from https://карта.ртрс.рф/rtrs/node/2476
 # Contributed by: Алексей Михайлов <citizen777@list.ru>
-# Last change: 2020-10-17
+# Last change: 2020-10-25
 
 [РТРС-1: ПЕРВЫЙ КАНАЛ, МАТЧ!, НТВ, ПЯТЫЙ КАНАЛ, РОССИЯ-К, КАРУСЕЛЬ, ТВ Центр, ВЕСТИ ФМ, МАЯК]
     DELIVERY_SYSTEM = DVBT2
-    FREQUENCY = 490000000
+    FREQUENCY = 554000000
     BANDWIDTH_HZ = 8000000
     CODE_RATE_HP = AUTO
     CODE_RATE_LP = AUTO
@@ -18,7 +18,7 @@
 
 [РТРС-1: РОССИЯ-1, РОССИЯ-24, ОТР, Радио России]
     DELIVERY_SYSTEM = DVBT2
-    FREQUENCY = 490000000
+    FREQUENCY = 554000000
     BANDWIDTH_HZ = 8000000
     CODE_RATE_HP = AUTO
     CODE_RATE_LP = AUTO
@@ -31,7 +31,7 @@
 
 [РТРС-2: РЕН ТВ, Спас, СТС, Домашний, ТВ3, Пятница, Звезда, МИР, ТНТ, МУЗ ТВ]
     DELIVERY_SYSTEM = DVBT2
-    FREQUENCY = 698000000
+    FREQUENCY = 714000000
     BANDWIDTH_HZ = 8000000
     CODE_RATE_HP = AUTO
     CODE_RATE_LP = AUTO
