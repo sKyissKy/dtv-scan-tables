@@ -1,9 +1,9 @@
 #----------------------------------------------------------------------------------------------
 # Auto-generated from:
-# <https://www.freeview.co.uk/help/coverage-checker/detailed-view/download/RG26 5UD>
+# <https://www.freeview.co.uk/help/coverage-checker/detailed-view?postcode=RG265UD>
 #----------------------------------------------------------------------------------------------
 # location and provider: UK, Hannington
-# date (yyyy-mm-dd)    : 2023-02-10
+# date (yyyy-mm-dd)    : 2024-06-09
 #
 #----------------------------------------------------------------------------------------------
 [C45 BBC A]
@@ -30,17 +30,16 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C39 BBC B]
-	DELIVERY_SYSTEM = DVBT2
-	FREQUENCY = 618000000
+[C32 L-BSG]
+	DELIVERY_SYSTEM = DVBT
+	FREQUENCY = 562000000
 	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 2/3
+	CODE_RATE_HP = 3/4
 	CODE_RATE_LP = NONE
-	MODULATION = QAM/256
-	TRANSMISSION_MODE = 32K
-	GUARD_INTERVAL = 1/128
+	MODULATION = QPSK
+	TRANSMISSION_MODE = 8K
+	GUARD_INTERVAL = 1/32
 	HIERARCHY = NONE
-	STREAM_ID = 0
 	INVERSION = AUTO
 
 [C40 SDN]
@@ -79,15 +78,16 @@
 	HIERARCHY = NONE
 	INVERSION = AUTO
 
-[C34 L-RDG]
-	DELIVERY_SYSTEM = DVBT
-	FREQUENCY = 578000000
+[C39+ BBC B HD]
+	DELIVERY_SYSTEM = DVBT2
+	FREQUENCY = 618167000
 	BANDWIDTH_HZ = 8000000
-	CODE_RATE_HP = 3/4
+	CODE_RATE_HP = 2/3
 	CODE_RATE_LP = NONE
-	MODULATION = QPSK
-	TRANSMISSION_MODE = 8K
-	GUARD_INTERVAL = 1/32
+	MODULATION = QAM/256
+	TRANSMISSION_MODE = 32K
+	GUARD_INTERVAL = 1/128
 	HIERARCHY = NONE
+	STREAM_ID = 0
 	INVERSION = AUTO
 
