@@ -1,4 +1,4 @@
-# Channel table for Silves - AM - Brazil
+# Channel table for SILVES-AM - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2446
 
 # Physical channel 19 (virtual 19.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 23 (virtual 2.5)
-[TV Encontro das Águas, Aula em Casa, Rádio Encontro das Águas]
+[TV Encontro das Águas, Aula em Casa, Aula em Casa, Aula em Casa, Rádio Encontro das Águas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

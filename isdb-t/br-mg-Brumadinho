@@ -1,4 +1,4 @@
-# Channel table for Brumadinho - MG - Brazil
+# Channel table for BRUMADINHO-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3603
 
 # Physical channel 10 (virtual 10.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 14 (virtual 14.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857

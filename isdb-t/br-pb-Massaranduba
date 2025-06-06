@@ -1,4 +1,4 @@
-# Channel table for Massaranduba - PB - Brazil
+# Channel table for MASSARANDUBA-PB - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3023
 
 # Physical channel 15 (virtual 8.5)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 16 (virtual 7.1)
-[TV Manaíra]
+[TV Norte Paraíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 18 (virtual 18.2)
-[Rede Ita, Multicultura]
+[Rede Ita, TV Cultura]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 24 (virtual 23.3)
-[Rede Vida, Rede Vida Educação, TV Educativa do Pará]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857

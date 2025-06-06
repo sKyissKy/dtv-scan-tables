@@ -1,4 +1,4 @@
-# Channel table for Sussuapara - PI - Brazil
+# Channel table for SUSSUAPARA-PI - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4123
 
 # Physical channel 15 (virtual 15.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 16 (virtual 5.2)
-[TV Cidade Verde Picos, Rádio Cidade Verde FM]
+[TV Cidade Verde Picos, TV Cidade Verde 5.2]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 22 (virtual 6.1)
-[TV Meio Norte]
+[Rede Meio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 39.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

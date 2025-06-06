@@ -1,4 +1,4 @@
-# Channel table for Irapuru - SP - Brazil
+# Channel table for IRAPURU-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3691
 
 # Physical channel 32 (virtual 32.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 34.1)
-[SBT Interior/SP]
+[TH+ SBT Interior]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

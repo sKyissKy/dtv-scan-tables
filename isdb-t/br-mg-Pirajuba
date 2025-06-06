@@ -1,8 +1,8 @@
-# Channel table for Pirajuba - MG - Brazil
+# Channel table for PIRAJUBA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3285
 
 # Physical channel 23 (virtual 40.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 50 (virtual 2.4)
-[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

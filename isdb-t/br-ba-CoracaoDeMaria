@@ -1,8 +1,8 @@
-# Channel table for Cora��o De Maria - BA - Brazil
+# Channel table for CORAçãO DE MARIA-BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3122
 
-# Physical channel 14 (virtual 14.3)
-[Rede Vida, Rede Vida Educação]
+# Physical channel 14 (virtual 14.1)
+[Rede Vida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857

@@ -1,4 +1,4 @@
-# Channel table for Caxias - MA - Brazil
+# Channel table for CAXIAS-MA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=94
 
 # Physical channel 22 (virtual 10.2)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 26 (virtual 20.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 545142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 11.2)
-[TV Difusora Leste, TV Assembleia MA]
+[TV Difusora Leste, Rádio Difusora FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

@@ -1,4 +1,4 @@
-# Channel table for S�o Roque - SP - Brazil
+# Channel table for SãO ROQUE-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=865
 
 # Physical channel 23 (virtual 30.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 32 (virtual 32.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 41.3)
-[TV Cultura Paulista, Univesp, Multicultura]
+[TV Cultura, Univesp, Rede Alesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

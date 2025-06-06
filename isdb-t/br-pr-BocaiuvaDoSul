@@ -1,7 +1,7 @@
-# Channel table for Bocaiúva Do Sul - PR - Brazil
+# Channel table for BOCAIÃºVA DO SUL-PR - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3894
 
-# Physical channel 42 (virtual 42.1)
+# Physical channel 42 (virtual 12.1)
 [RPC TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

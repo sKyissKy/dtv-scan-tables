@@ -1,8 +1,8 @@
-# Channel table for S�o Caitano - PE - Brazil
+# Channel table for SãO CAITANO-PE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3815
 
-# Physical channel 15 (virtual 48.3)
-[Rede Vida, Rede Vida Educação]
+# Physical channel 15 (virtual 23.3)
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 25.2)
-[TV Nova, TV Nova Educação]
+# Physical channel 25 (virtual 25.4)
+[TV Nova, TV Nova Educação, Univesp, Rádio Nova FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 29.1)
-[Rede Brasil]
+[Rede Brasil de Comunicação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857
@@ -321,7 +321,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 48 (virtual 2.1)
-[TV Tribuna]
+[TV Tribuna/PE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

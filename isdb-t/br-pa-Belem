@@ -1,4 +1,4 @@
-# Channel table for Bel�m - PA - Brazil
+# Channel table for BELéM-PA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=104
 
 # Physical channel 14 (virtual 15.1)
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 19.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -611,7 +611,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 40 (virtual 40.1)
-[TV A Crítica Pará]
+[TV Cidade Verde, TV A Crítica Belém]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857
@@ -639,7 +639,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41 (virtual 2.1)
+# Physical channel 41 (virtual 2.2)
 [Rede Cultura do Pará]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -698,7 +698,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 44 (virtual 54.1)
-[TV Novo Tempo]
+[TV Cachoeira]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

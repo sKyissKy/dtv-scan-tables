@@ -1,8 +1,8 @@
-# Channel table for Buritizal - SP - Brazil
+# Channel table for BURITIZAL-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2940
 
-# Physical channel 30 (virtual 4.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 30 (virtual 4.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

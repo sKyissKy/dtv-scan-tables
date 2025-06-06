@@ -1,4 +1,4 @@
-# Channel table for Guaratinguet� - SP - Brazil
+# Channel table for GUARATINGUETá-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=367
 
 # Physical channel 19 (virtual 59.1)
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 34.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 46 (virtual 46.1)
-[TV Thathi Vale]
+[TH+ SBT Vale]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 50 (virtual 38.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 50 (virtual 38.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

@@ -1,4 +1,4 @@
-# Channel table for Manhua�u - MG - Brazil
+# Channel table for MANHUAçU-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=315
 
 # Physical channel 33 (virtual 22.1)
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 49 (virtual 9.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

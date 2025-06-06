@@ -1,4 +1,4 @@
-# Channel table for Confins - MG - Brazil
+# Channel table for CONFINS-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3607
 
 # Physical channel 14 (virtual 14.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 17 (virtual 17.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857
@@ -408,7 +408,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 49 (virtual 49.2)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857
@@ -437,7 +437,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 50 (virtual 27.1)
-[Record News]
+[TV Atual]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

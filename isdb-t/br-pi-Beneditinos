@@ -1,4 +1,4 @@
-# Channel table for Beneditinos - PI - Brazil
+# Channel table for BENEDITINOS-PI - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1063
 
 # Physical channel 19 (virtual 2.4)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 7.1)
-[TV Meio Norte]
+[Rede Meio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857

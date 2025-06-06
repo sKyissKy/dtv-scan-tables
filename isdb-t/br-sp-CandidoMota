@@ -1,4 +1,4 @@
-# Channel table for C�ndido Mota - SP - Brazil
+# Channel table for CâNDIDO MOTA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3428
 
 # Physical channel 14 (virtual 25.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 16 (virtual 16.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -233,8 +233,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 44 (virtual 13.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 44 (virtual 13.4)
+[Uno TV, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

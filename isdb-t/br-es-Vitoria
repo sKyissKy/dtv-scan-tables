@@ -1,8 +1,8 @@
-# Channel table for Vit�ria - ES - Brazil
+# Channel table for VITóRIA-ES - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=45
 
 # Physical channel 16 (virtual 10.1)
-[TV Capixaba]
+[TV Sim]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -117,7 +117,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21 (virtual 21.1)
+# Physical channel 21 (virtual 11.1)
 [TV Novo Tempo]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35 (virtual 36.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857
@@ -408,7 +408,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 40 (virtual 8.1)
-[Record News ES]
+[TV Capixaba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857
@@ -466,7 +466,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 42 (virtual 7.1)
-[TV Tribuna]
+[TV Tribuna/ES]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857
@@ -581,8 +581,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 16.1)
-[TV Sim]
+# Physical channel 49 (virtual 16.2)
+[TV Foz, TV Maanaim]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

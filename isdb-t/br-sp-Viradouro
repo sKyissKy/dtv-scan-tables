@@ -1,8 +1,8 @@
-# Channel table for Viradouro - SP - Brazil
+# Channel table for VIRADOURO-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2743
 
 # Physical channel 21 (virtual 21.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857

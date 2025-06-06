@@ -1,4 +1,4 @@
-# Channel table for Sorocaba - SP - Brazil
+# Channel table for SOROCABA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=16
 
 # Physical channel 17 (virtual 57.1)
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 32 (virtual 32.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -291,8 +291,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41 (virtual 41.3)
-[TV Cultura Paulista, Univesp, Multicultura]
+# Physical channel 41 (virtual 41.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857
@@ -379,7 +379,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 47 (virtual 20.1)
-[Top TV]
+[Astral TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857

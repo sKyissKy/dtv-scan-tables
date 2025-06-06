@@ -1,4 +1,4 @@
-# Channel table for S�o Carlos - SP - Brazil
+# Channel table for SãO CARLOS-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=203
 
 # Physical channel 16 (virtual 9.1)
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 32 (virtual 32.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -262,8 +262,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 11.3)
-[TV Cultura Paulista, Univesp, Multicultura]
+# Physical channel 34 (virtual 11.4)
+[TV Cultura Paulista, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

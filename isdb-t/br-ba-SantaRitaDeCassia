@@ -1,8 +1,8 @@
-# Channel table for Santa Rita De C�ssia - BA - Brazil
+# Channel table for SANTA RITA DE CáSSIA-BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1532
 
-# Physical channel 24 (virtual 10.2)
-[TVE Bahia, Educa Bahia]
+# Physical channel 24 (virtual 10.3)
+[TVE Bahia, Educa Bahia, Rádio Educadora]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857

@@ -1,8 +1,8 @@
-# Channel table for Santos - SP - Brazil
+# Channel table for SANTOS-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=51
 
 # Physical channel 15 (virtual 15.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21 (virtual 3.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 21 (virtual 3.4)
+[TV Cultura, Univesp, Rede Alesp, Canal sem transmissão]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 23 (virtual 12.1)
-[TV Thathi Litoral]
+[TH+ Band Litoral]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857
@@ -262,8 +262,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38 (virtual 59.1)
-[Mais Família]
+# Physical channel 38 (virtual 58.2)
+[Mais Família, Boas Novas Belém]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 40.1)
-[TV Unisantos]
+[TV Serra do Mar]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857
@@ -436,7 +436,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 46 (virtual 46.1)
+# Physical channel 46 (virtual 43.1)
 [Rede Gospel]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -495,7 +495,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 48 (virtual 48.3)
-[TV Cultura Litoral, Univesp, Educa Santos TV]
+[TV Cultura Litoral, Univesp, Rede Alesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

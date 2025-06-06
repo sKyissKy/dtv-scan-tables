@@ -1,4 +1,4 @@
-# Channel table for Bar�o De Melga�o - MT - Brazil
+# Channel table for BARãO DE MELGAçO-MT - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2554
 
 # Physical channel 15 (virtual 14.1)
@@ -466,7 +466,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 43 (virtual 44.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857
@@ -494,7 +494,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 45 (virtual 5.1)
+# Physical channel 45 (virtual 5.2)
 [SBT Cuiabá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

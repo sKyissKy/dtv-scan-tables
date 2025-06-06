@@ -1,4 +1,4 @@
-# Channel table for Jos� De Freitas - PI - Brazil
+# Channel table for JOSé DE FREITAS-PI - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1058
 
 # Physical channel 17 (virtual 16.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 22 (virtual 7.2)
-[TV Meio Norte, Rádio Meio Norte FM]
+[Rede Meio, Rádio Meio Norte FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 28 (virtual 5.3)
-[TV Cidade Verde, Rádio Cidade Verde FM, Rádio CVMAIS]
+[TV Cidade Verde, TV Cidade Verde 5.2, Rádio CVMAIS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 10.3)
-[TV Antena 10, A10+]
+[TV Antena 10, A10+, A10+]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

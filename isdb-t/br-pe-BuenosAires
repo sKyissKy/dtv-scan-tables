@@ -1,8 +1,8 @@
-# Channel table for Buenos Aires - PE - Brazil
+# Channel table for BUENOS AIRES-PE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3306
 
 # Physical channel 20 (virtual 4.1)
-[TV Tribuna]
+[TV Tribuna/PE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 44 (virtual 51.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

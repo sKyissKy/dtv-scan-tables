@@ -1,4 +1,4 @@
-# Channel table for Miss�o Velha - CE - Brazil
+# Channel table for MISSãO VELHA-CE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1655
 
 # Physical channel 16 (virtual 16.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 7.4)
-[TV Senado, TV Juazeiro do Norte, TV Assembleia CE, TV Câmara]
+[TV Senado, TV Padre Cícero, ALECE TV, TV Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 45 (virtual 45.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857

@@ -1,4 +1,4 @@
-# Channel table for Cravinhos - SP - Brazil
+# Channel table for CRAVINHOS-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1126
 
 # Physical channel 16 (virtual 9.1)
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 21.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -233,8 +233,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 4.3)
-[TV Cultura Paulista, Univesp, Multicultura]
+# Physical channel 30 (virtual 4.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -379,7 +379,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 51 (virtual 32.1)
-[TV Thathi]
+[TH+ TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 695142857

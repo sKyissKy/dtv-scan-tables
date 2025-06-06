@@ -1,4 +1,4 @@
-# Channel table for Queimados - RJ - Brazil
+# Channel table for QUEIMADOS-RJ - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=924
 
 # Physical channel 16 (virtual 8.1)
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 22 (virtual 34.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 31 (virtual 32.1)
-[TV Universo]
+[TV Cultura Rio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 42 (virtual 5.1)
-[Mais Família]
+# Physical channel 42 (virtual 5.2)
+[Mais Família, Boas Novas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 43 (virtual 52.1)
-[Record News]
+[Record News SC]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857

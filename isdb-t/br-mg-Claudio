@@ -1,8 +1,8 @@
-# Channel table for Cláudio - MG - Brazil
+# Channel table for CLÃ¡UDIO-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4096
 
 # Physical channel 28 (virtual 28.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857

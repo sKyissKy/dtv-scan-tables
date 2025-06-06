@@ -1,8 +1,8 @@
-# Channel table for São José Da Varginha - MG - Brazil
+# Channel table for SÃ£O JOSÃ© DA VARGINHA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3614
 
 # Physical channel 17 (virtual 9.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

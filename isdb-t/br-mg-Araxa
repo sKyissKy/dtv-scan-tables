@@ -1,4 +1,4 @@
-# Channel table for Arax� - MG - Brazil
+# Channel table for ARAXá-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=178
 
 # Physical channel 19 (virtual 16.2)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 23 (virtual 23.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 12.2)
-[TV Integração Araxá, Araxá Educa]
+# Physical channel 30 (virtual 12.1)
+[TV Integração Araxá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

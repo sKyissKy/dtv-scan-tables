@@ -1,8 +1,8 @@
-# Channel table for Bom Jesus - PI - Brazil
+# Channel table for BOM JESUS-PI - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1029
 
 # Physical channel 22 (virtual 9.1)
-[TV Meio Norte]
+[Rede Meio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 28 (virtual 28.3)
-[TV Cidade Verde, Rádio Cidade Verde FM, Rádio CVMAIS]
+[TV Cidade Verde, TV Cidade Verde 5.2, Rádio CVMAIS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 11.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

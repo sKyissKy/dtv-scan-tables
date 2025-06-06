@@ -1,8 +1,8 @@
-# Channel table for Riacho Das Almas - PE - Brazil
+# Channel table for RIACHO DAS ALMAS-PE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3778
 
-# Physical channel 15 (virtual 48.3)
-[Rede Vida, Rede Vida Educação]
+# Physical channel 15 (virtual 23.3)
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 31.1)
-[TV Nova]
+# Physical channel 25 (virtual 25.4)
+[TV Nova, TV Nova Educação, Univesp, Rádio Nova FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857

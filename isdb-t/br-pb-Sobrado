@@ -1,8 +1,8 @@
-# Channel table for Sobrado - PB - Brazil
+# Channel table for SOBRADO-PB - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3807
 
 # Physical channel 16 (virtual 10.1)
-[TV Manaíra]
+[TV Norte Paraíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

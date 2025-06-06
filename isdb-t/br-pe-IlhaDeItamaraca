@@ -1,8 +1,8 @@
-# Channel table for Ilha De Itamarac� - PE - Brazil
+# Channel table for ILHA DE ITAMARACá-PE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3558
 
 # Physical channel 15 (virtual 14.1)
-[Rede Brasil]
+[Rede Brasil de Comunicação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 20 (virtual 4.2)
-[TV Tribuna, Rede Mundial]
+# Physical channel 20 (virtual 4.1)
+[TV Tribuna/PE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 22.3)
-[TV Nova, TV Nova Educação, Rádio Nova FM]
+[TV Nova, TV Cultura, Rádio Nova FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 44 (virtual 51.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

@@ -1,8 +1,8 @@
-# Channel table for Cruz Do Esp�rito Santo - PB - Brazil
+# Channel table for CRUZ DO ESPíRITO SANTO-PB - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3804
 
 # Physical channel 16 (virtual 10.1)
-[TV Manaíra]
+[TV Norte Paraíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

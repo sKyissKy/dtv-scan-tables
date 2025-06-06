@@ -1,8 +1,8 @@
-# Channel table for Chaval - CE - Brazil
+# Channel table for CHAVAL-CE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1321
 
 # Physical channel 14 (virtual 9.4)
-[TV Câmara, TV Assembleia CE, TV Senado, Rádio Câmara]
+[TV Câmara, ALECE TV, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857

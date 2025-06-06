@@ -1,4 +1,4 @@
-# Channel table for Cajamar - SP - Brazil
+# Channel table for CAJAMAR-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=943
 
 # Physical channel 17 (virtual 11.1)
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24 (virtual 2.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 24 (virtual 2.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 33 (virtual 33.3)
-[Top TV, Kiss TV, Canal sem transmissão]
+[Top TV, Astral TV, Kiss TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -379,7 +379,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 34.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

@@ -1,4 +1,4 @@
-# Channel table for Bar�o De Cocais - MG - Brazil
+# Channel table for BARãO DE COCAIS-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4007
 
 # Physical channel 28 (virtual 2.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 40 (virtual 40.4)
-[TV Caraça, Rede Minas Educa]
+[TV Caraça, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857

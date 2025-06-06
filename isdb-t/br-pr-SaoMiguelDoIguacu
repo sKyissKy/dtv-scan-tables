@@ -1,4 +1,4 @@
-# Channel table for S�o Miguel Do Igua�u - PR - Brazil
+# Channel table for SãO MIGUEL DO IGUAçU-PR - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=269
 
 # Physical channel 26 (virtual 29.1)
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 50 (virtual 59.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

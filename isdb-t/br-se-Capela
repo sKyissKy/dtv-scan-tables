@@ -1,4 +1,4 @@
-# Channel table for Capela - SE - Brazil
+# Channel table for CAPELA-SE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2315
 
 # Physical channel 12 (virtual 2.4)
@@ -379,7 +379,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 39.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -553,7 +553,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 48 (virtual 5.4)
-[TV Senado, TV ALESE, TV Câmara Municipal Aracaju]
+[TV Senado, TV ALESE, TV Câmara Municipal Aracaju, TV Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

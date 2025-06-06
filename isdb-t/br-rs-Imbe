@@ -1,4 +1,4 @@
-# Channel table for Imb� - RS - Brazil
+# Channel table for IMBé-RS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3389
 
 # Physical channel 16 (virtual 41.1)
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22 (virtual 13.1)
-[Record RS]
+# Physical channel 22 (virtual 2.1)
+[Record Guaíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 20.1)
+# Physical channel 28 (virtual 5.1)
 [SBT RS]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,4 +1,4 @@
-# Channel table for S�o Gon�alo Do Amarante - CE - Brazil
+# Channel table for SãO GONçALO DO AMARANTE-CE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3215
 
 # Physical channel 18 (virtual 17.1)
@@ -263,7 +263,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 45 (virtual 46.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857

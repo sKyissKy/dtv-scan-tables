@@ -1,4 +1,4 @@
-# Channel table for Periquito - MG - Brazil
+# Channel table for PERIQUITO-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2997
 
 # Physical channel 22 (virtual 11.1)
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 6.1)
-[TV Rio Doce]
+# Physical channel 33 (virtual 6.4)
+[TV Rio Doce, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857

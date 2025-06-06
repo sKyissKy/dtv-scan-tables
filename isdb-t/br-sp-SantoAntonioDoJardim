@@ -1,4 +1,4 @@
-# Channel table for Santo Ant�nio Do Jardim - SP - Brazil
+# Channel table for SANTO ANTôNIO DO JARDIM-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2827
 
 # Physical channel 15 (virtual 15.1)
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 32 (virtual 32.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -233,8 +233,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38 (virtual 10.3)
-[TV Cultura Paulista, Univesp, Multicultura]
+# Physical channel 38 (virtual 10.4)
+[TV Cultura Paulista, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

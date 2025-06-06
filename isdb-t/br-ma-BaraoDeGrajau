@@ -1,4 +1,4 @@
-# Channel table for Bar�o De Graja� - MA - Brazil
+# Channel table for BARãO DE GRAJAú-MA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1418
 
 # Physical channel 16 (virtual 9.4)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 22 (virtual 7.1)
-[TV Meio Norte]
+[Rede Meio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 6.2)
-[TV Alvorada, Educa Piauí]
+# Physical channel 25 (virtual 6.1)
+[TV Alvorada]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 28 (virtual 4.3)
-[TV Cidade Verde, Rádio Cidade Verde FM, TV Cidade Verde FM]
+[TV Cidade Verde, TV Cidade Verde 5.2, TV Cidade Verde 5.2]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 18.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

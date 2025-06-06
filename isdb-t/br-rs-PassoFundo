@@ -1,4 +1,4 @@
-# Channel table for Passo Fundo - RS - Brazil
+# Channel table for PASSO FUNDO-RS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=61
 
 # Physical channel 15 (virtual 30.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 17 (virtual 17.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 2.1)
-[Record RS]
+[Record Guaíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

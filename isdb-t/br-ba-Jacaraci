@@ -1,8 +1,8 @@
-# Channel table for Jacaraci - BA - Brazil
+# Channel table for JACARACI-BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1435
 
-# Physical channel 23 (virtual 10.2)
-[TVE Bahia, Educa Bahia]
+# Physical channel 23 (virtual 10.3)
+[TVE Bahia, Educa Bahia, Rádio Educadora]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

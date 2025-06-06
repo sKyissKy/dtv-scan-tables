@@ -1,8 +1,8 @@
-# Channel table for Bento Gon�alves - RS - Brazil
+# Channel table for BENTO GONçALVES-RS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1632
 
 # Physical channel 22 (virtual 32.1)
-[Record RS]
+[Record Guaíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857

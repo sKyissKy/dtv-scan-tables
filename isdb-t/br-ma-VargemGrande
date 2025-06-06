@@ -1,8 +1,8 @@
-# Channel table for Vargem Grande - MA - Brazil
+# Channel table for VARGEM GRANDE-MA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=694
 
-# Physical channel 20 (virtual 9.1)
-[TV Líder]
+# Physical channel 20 (virtual 20.1)
+[Rede Meio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

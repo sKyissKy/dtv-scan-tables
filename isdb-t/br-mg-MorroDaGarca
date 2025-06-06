@@ -1,8 +1,8 @@
-# Channel table for Morro Da Garça - MG - Brazil
+# Channel table for MORRO DA GARÃ§A-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2354
 
 # Physical channel 17 (virtual 10.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

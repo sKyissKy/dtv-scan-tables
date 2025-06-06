@@ -1,8 +1,8 @@
-# Channel table for Dom Pedrito - RS - Brazil
+# Channel table for DOM PEDRITO-RS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2094
 
 # Physical channel 17 (virtual 18.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

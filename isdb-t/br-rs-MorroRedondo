@@ -1,11 +1,11 @@
-# Channel table for Morro Redondo - RS - Brazil
+# Channel table for MORRO REDONDO-RS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2132
 
-# Physical channel 34 (virtual 4.1)
+# Physical channel 24 (virtual 4.1)
 [RBS Pelotas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 593142857
+	FREQUENCY = 533142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO

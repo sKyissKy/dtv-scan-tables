@@ -1,8 +1,8 @@
-# Channel table for Riach�o Do Po�o - PB - Brazil
+# Channel table for RIACHãO DO POçO-PB - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3806
 
 # Physical channel 16 (virtual 10.1)
-[TV Manaíra]
+[TV Norte Paraíba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

@@ -1,4 +1,4 @@
-# Channel table for Piedade - SP - Brazil
+# Channel table for PIEDADE-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2683
 
 # Physical channel 23 (virtual 58.1)
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 41.3)
-[TV Cultura Paulista, Univesp, Multicultura]
+[TV Cultura, Univesp, Rede Alesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

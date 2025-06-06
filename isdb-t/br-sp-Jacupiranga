@@ -1,8 +1,8 @@
-# Channel table for Jacupiranga - SP - Brazil
+# Channel table for JACUPIRANGA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=454
 
-# Physical channel 21 (virtual 3.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 21 (virtual 3.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857

@@ -1,4 +1,4 @@
-# Channel table for Toritama - PE - Brazil
+# Channel table for TORITAMA-PE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=37
 
 # Physical channel 13 (virtual 2.4)
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 25.2)
-[TV Nova, TV Nova Educação]
+# Physical channel 25 (virtual 25.4)
+[TV Nova, TV Nova Educação, Univesp, Rádio Nova FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 47 (virtual 30.1)
-[Rede Brasil]
+[Rede Brasil de Comunicação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857

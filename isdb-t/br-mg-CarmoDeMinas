@@ -1,4 +1,4 @@
-# Channel table for Carmo De Minas - MG - Brazil
+# Channel table for CARMO DE MINAS-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3459
 
 # Physical channel 19 (virtual 13.1)
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 51 (virtual 2.4)
-[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 695142857

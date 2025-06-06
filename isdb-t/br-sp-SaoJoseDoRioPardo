@@ -1,4 +1,4 @@
-# Channel table for S�o Jos� Do Rio Pardo - SP - Brazil
+# Channel table for SãO JOSé DO RIO PARDO-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2791
 
 # Physical channel 18 (virtual 17.1)
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 4.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 30 (virtual 4.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 50 (virtual 41.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

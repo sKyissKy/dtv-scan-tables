@@ -1,4 +1,4 @@
-# Channel table for Santana Do Cariri - CE - Brazil
+# Channel table for SANTANA DO CARIRI-CE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4258
 
 # Physical channel 16 (virtual 2.4)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 9.4)
-[TV Câmara, TV Assembleia CE, TV Senado, Rádio Câmara]
+[TV Câmara, ALECE TV, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

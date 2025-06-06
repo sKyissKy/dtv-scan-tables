@@ -1,4 +1,4 @@
-# Channel table for Meruoca - CE - Brazil
+# Channel table for MERUOCA-CE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2548
 
 # Physical channel 34 (virtual 10.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 48.1)
-[TV Jangadeiro]
+[NordesTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 40 (virtual 9.4)
-[TV Câmara, TV Assembleia CE, TV Senado, Rádio Câmara]
+[TV Câmara, ALECE TV, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857

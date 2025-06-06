@@ -1,8 +1,8 @@
-# Channel table for Santo Anast�cio - SP - Brazil
+# Channel table for SANTO ANASTáCIO-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=300
 
 # Physical channel 16 (virtual 15.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

@@ -1,4 +1,4 @@
-# Channel table for Paragua�u Paulista - SP - Brazil
+# Channel table for PARAGUAçU PAULISTA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=108
 
 # Physical channel 14 (virtual 41.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 20.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 31 (virtual 31.5)
-[Multicultura, TV Câmara, Rede ALESP, TV Câmara Municipal Assis, TV Senado, Rádio Câmara]
+[Rede Alesp, TV Câmara, Rede ALESP, TV Câmara Municipal Assis, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 44 (virtual 13.2)
-[TV Cultura, Univesp]
+[Uno TV, Univesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

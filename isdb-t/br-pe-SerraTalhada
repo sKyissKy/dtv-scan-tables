@@ -1,4 +1,4 @@
-# Channel table for Serra Talhada - PE - Brazil
+# Channel table for SERRA TALHADA-PE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1464
 
 # Physical channel 15 (virtual 8.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 18 (virtual 16.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 20.1)
-[Rede Brasil]
+[Rede Brasil de Comunicação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 40 (virtual 2.4)
-[TV Brasil, Canal Gov, TV Escola, Canal Saúde]
+[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857

@@ -1,4 +1,4 @@
-# Channel table for Cunha Por� - SC - Brazil
+# Channel table for CUNHA PORã-SC - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=841
 
 # Physical channel 15 (virtual 56.1)
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 31 (virtual 47.2)
-[NDTV Chapecó, TV Inova SC]
+# Physical channel 31 (virtual 47.1)
+[NDTV Chapecó]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857

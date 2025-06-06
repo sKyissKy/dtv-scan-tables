@@ -1,4 +1,4 @@
-# Channel table for Vi�osa - MG - Brazil
+# Channel table for VIçOSA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=125
 
 # Physical channel 15 (virtual 19.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 23 (virtual 23.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

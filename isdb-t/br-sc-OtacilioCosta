@@ -1,8 +1,8 @@
-# Channel table for Otac�lio Costa - SC - Brazil
+# Channel table for OTACíLIO COSTA-SC - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=623
 
 # Physical channel 17 (virtual 4.4)
-[TV Brasil, TV AL, TV Escola, Canal Saúde]
+[TV Brasil, Canal Gov, TV Escola, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

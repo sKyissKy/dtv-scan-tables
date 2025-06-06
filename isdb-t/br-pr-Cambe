@@ -1,4 +1,4 @@
-# Channel table for Camb� - PR - Brazil
+# Channel table for CAMBé-PR - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=292
 
 # Physical channel 17 (virtual 17.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 19 (virtual 19.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23 (virtual 5.3)
-[Rede Massa Cidade, TV Escola Curitiba, Aula Londrina]
+# Physical channel 23 (virtual 5.2)
+[Rede Massa Cidade, TV Escola Curitiba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

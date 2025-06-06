@@ -1,8 +1,8 @@
-# Channel table for Santo Amaro Da Imperatriz - SC - Brazil
+# Channel table for SANTO AMARO DA IMPERATRIZ-SC - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1802
 
 # Physical channel 21 (virtual 20.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 27 (virtual 9.2)
-[NDTV, TV Inova SC]
+# Physical channel 27 (virtual 9.1)
+[NDTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 551142857

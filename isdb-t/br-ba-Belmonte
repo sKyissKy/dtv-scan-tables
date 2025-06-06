@@ -1,4 +1,4 @@
-# Channel table for Belmonte - BA - Brazil
+# Channel table for BELMONTE-BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1253
 
 # Physical channel 16 (virtual 2.4)
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 18 (virtual 9.4)
+# Physical channel 18 (virtual 10.4)
 [TV Câmara, TV Assembleia BA, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23 (virtual 8.2)
-[TVE Bahia, Educa Bahia]
+# Physical channel 23 (virtual 9.3)
+[TVE Bahia, Educa Bahia, Rádio Educadora]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

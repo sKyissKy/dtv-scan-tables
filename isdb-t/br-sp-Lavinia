@@ -1,4 +1,4 @@
-# Channel table for Lavínia - SP - Brazil
+# Channel table for LAVÃ­NIA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3951
 
 # Physical channel 26 (virtual 26.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 34.1)
-[SBT Interior/SP]
+[TH+ SBT Interior]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

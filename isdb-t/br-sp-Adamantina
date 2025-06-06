@@ -1,8 +1,8 @@
-# Channel table for Adamantina - SP - Brazil
+# Channel table for ADAMANTINA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=507
 
 # Physical channel 16 (virtual 15.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 34.1)
-[SBT Interior/SP]
+[TH+ SBT Interior]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 4.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, Rede Alesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

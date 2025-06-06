@@ -1,8 +1,8 @@
-# Channel table for Igarap� Do Meio - MA - Brazil
+# Channel table for IGARAPé DO MEIO-MA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4358
 
-# Physical channel 19 (virtual 19.1)
-[Mais Família]
+# Physical channel 19 (virtual 19.2)
+[Mais Família, Boas Novas Belém]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857

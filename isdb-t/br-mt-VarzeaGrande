@@ -1,4 +1,4 @@
-# Channel table for V�rzea Grande - MT - Brazil
+# Channel table for VáRZEA GRANDE-MT - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3841
 
 # Physical channel 14 (virtual 15.1)
@@ -582,7 +582,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 43 (virtual 44.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857
@@ -611,7 +611,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 45 (virtual 5.2)
-[SBT Cuiabá, Canal sem transmissão]
+[SBT Cuiabá, Canal em teste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857

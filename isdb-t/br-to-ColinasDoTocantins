@@ -1,4 +1,4 @@
-# Channel table for Colinas Do Tocantins - TO - Brazil
+# Channel table for COLINAS DO TOCANTINS-TO - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=610
 
 # Physical channel 42 (virtual 7.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 46 (virtual 10.1)
-[TV Colinas]
+[TV Norte Colinas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

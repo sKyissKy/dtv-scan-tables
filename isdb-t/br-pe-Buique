@@ -1,4 +1,4 @@
-# Channel table for Bu�que - PE - Brazil
+# Channel table for BUíQUE-PE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2389
 
 # Physical channel 12 (virtual 9.4)
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 18 (virtual 12.3)
-[TV Pernambuco, Canal Educação, Canal Saúde]
+# Physical channel 18 (virtual 12.2)
+[TV Pernambuco, Canal Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857

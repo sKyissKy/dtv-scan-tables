@@ -1,8 +1,8 @@
-# Channel table for Tufil�ndia - MA - Brazil
+# Channel table for TUFILâNDIA-MA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3069
 
-# Physical channel 19 (virtual 19.1)
-[Mais Família]
+# Physical channel 19 (virtual 19.2)
+[Mais Família, Boas Novas Belém]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857

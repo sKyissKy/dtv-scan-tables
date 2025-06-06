@@ -1,8 +1,8 @@
-# Channel table for Guaxup� - MG - Brazil
+# Channel table for GUAXUPé-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2928
 
 # Physical channel 20 (virtual 33.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

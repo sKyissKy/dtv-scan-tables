@@ -1,4 +1,4 @@
-# Channel table for General Salgado - SP - Brazil
+# Channel table for GENERAL SALGADO-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2128
 
 # Physical channel 20 (virtual 21.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 30 (virtual 4.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, Rede Alesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 33 (virtual 33.1)
-[SBT Interior/SP]
+[TH+ SBT Interior]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857

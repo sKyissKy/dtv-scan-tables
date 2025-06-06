@@ -1,8 +1,8 @@
-# Channel table for Araioses - MA - Brazil
+# Channel table for ARAIOSES-MA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=666
 
 # Physical channel 21 (virtual 9.1)
-[TV Meio Norte]
+[Rede Meio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 16.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

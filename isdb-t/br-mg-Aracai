@@ -1,8 +1,8 @@
-# Channel table for Araçaí - MG - Brazil
+# Channel table for ARAÃ§AÃ­-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3620
 
-# Physical channel 17 (virtual 21.4)
-[Rede Minas, Rede Minas Educa]
+# Physical channel 17 (virtual 17.4)
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

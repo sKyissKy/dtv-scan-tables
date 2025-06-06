@@ -1,8 +1,8 @@
-# Channel table for Cruzeiro Da Fortaleza - MG - Brazil
+# Channel table for CRUZEIRO DA FORTALEZA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3287
 
 # Physical channel 12 (virtual 2.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 207142857

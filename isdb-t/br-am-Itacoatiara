@@ -1,4 +1,4 @@
-# Channel table for Itacoatiara - AM - Brazil
+# Channel table for ITACOATIARA-AM - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=332
 
 # Physical channel 16 (virtual 11.1)
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 8.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 42 (virtual 2.5)
-[TV Encontro das Águas, Aula em Casa, Rádio Encontro das Águas]
+[TV Encontro das Águas, Aula em Casa, Aula em Casa, Aula em Casa, Rádio Encontro das Águas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 641142857

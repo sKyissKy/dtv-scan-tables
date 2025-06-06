@@ -1,4 +1,4 @@
-# Channel table for Montanha - ES - Brazil
+# Channel table for MONTANHA-ES - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=544
 
 # Physical channel 22 (virtual 41.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 26 (virtual 8.1)
-[Record News ES]
+[TV Capixaba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 545142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 7.1)
-[TV Tribuna]
+[TV Tribuna/ES]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

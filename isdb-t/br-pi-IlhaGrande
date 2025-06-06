@@ -1,8 +1,8 @@
-# Channel table for Ilha Grande - PI - Brazil
+# Channel table for ILHA GRANDE-PI - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2412
 
 # Physical channel 21 (virtual 9.1)
-[TV Meio Norte]
+[Rede Meio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 13.1)
-[TV Cidade Verde]
+# Physical channel 28 (virtual 13.3)
+[TV Cidade Verde, TV Cidade Verde 5.2, TV Cidade Verde FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 16.3)
-[Rede Vida, Rede Vida Educação, TV Centro América Sinop]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

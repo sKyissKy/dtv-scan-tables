@@ -1,8 +1,8 @@
-# Channel table for Engenheiro Paulo De Frontin - RJ - Brazil
+# Channel table for ENGENHEIRO PAULO DE FRONTIN-RJ - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2279
 
 # Physical channel 22 (virtual 34.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857

@@ -1,4 +1,4 @@
-# Channel table for Gl�ria - BA - Brazil
+# Channel table for GLóRIA-BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=642
 
 # Physical channel 21 (virtual 10.1)
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23 (virtual 4.3)
+# Physical channel 23 (virtual 10.3)
 [TVE Bahia, Educa Bahia, Rádio Educadora]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

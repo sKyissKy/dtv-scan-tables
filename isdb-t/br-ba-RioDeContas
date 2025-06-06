@@ -1,8 +1,8 @@
-# Channel table for Rio De Contas - BA - Brazil
+# Channel table for RIO DE CONTAS-BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1506
 
-# Physical channel 23 (virtual 7.2)
-[TVE Bahia/TV Anísio Teixeira, Educa Bahia]
+# Physical channel 23 (virtual 7.3)
+[TVE Bahia/TV Anísio Teixeira, Educa Bahia, Rádio Educadora]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 527142857

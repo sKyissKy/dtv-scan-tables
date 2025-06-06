@@ -1,4 +1,4 @@
-# Channel table for Pauini - AM - Brazil
+# Channel table for PAUINI-AM - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=514
 
 # Physical channel 15 (virtual 15.1)
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 2.5)
-[TV Encontro das Águas, Aula em Casa, Rádio Encontro das Águas]
+[TV Encontro das Águas, Aula em Casa, Aula em Casa, Aula em Casa, Rádio Encontro das Águas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

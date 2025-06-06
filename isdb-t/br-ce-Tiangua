@@ -1,8 +1,8 @@
-# Channel table for Tiangu� - CE - Brazil
+# Channel table for TIANGUá-CE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=603
 
 # Physical channel 16 (virtual 48.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

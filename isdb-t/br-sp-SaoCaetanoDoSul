@@ -1,4 +1,4 @@
-# Channel table for S�o Caetano Do Sul - SP - Brazil
+# Channel table for SãO CAETANO DO SUL-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3665
 
 # Physical channel 10 (virtual 14.1)
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 49.1)
-[Canal Empreender]
+[Sabor & Arte]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -262,8 +262,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24 (virtual 2.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 24 (virtual 2.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 27 (virtual 53.2)
-[Rede Gospel, Canal sem transmissão]
+[Rede Gospel, COM Brasil TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 551142857
@@ -553,7 +553,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 34.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -581,8 +581,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 35 (virtual 17.2)
-[RTN TV, Rede Gênesis]
+# Physical channel 35 (virtual 17.1)
+[TV A Crítica]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857
@@ -610,8 +610,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 36 (virtual 36.1)
-[Mais Família]
+# Physical channel 36 (virtual 36.2)
+[Mais Família, Boas Novas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857
@@ -669,7 +669,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 8.5)
-[TV Câmara, Rede ALESP, TV Câmara Municipal SP, TV Senado, Rádio Câmara]
+[TV Câmara, Rede ALESP, Rede Câmara SP, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857
@@ -726,8 +726,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 41 (virtual 41.1)
-[TV Aparecida]
+# Physical channel 41 (virtual 41.2)
+[TV Aparecida, Rádio Aparecida]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857
@@ -871,8 +871,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 47 (virtual 47.2)
-[NGT, RTN TV, Rede Gênesis]
+# Physical channel 47 (virtual 3.1)
+[NGT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857

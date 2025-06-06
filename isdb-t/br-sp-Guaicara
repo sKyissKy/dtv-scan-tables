@@ -1,8 +1,8 @@
-# Channel table for Guai�ara - SP - Brazil
+# Channel table for GUAIçARA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3941
 
 # Physical channel 16 (virtual 16.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

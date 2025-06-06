@@ -1,4 +1,4 @@
-# Channel table for Governador Valadares - MG - Brazil
+# Channel table for GOVERNADOR VALADARES-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=10
 
 # Physical channel 15 (virtual 15.1)
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 19 (virtual 52.1)
+# Physical channel 19 (virtual 19.1)
 [TV Pai Eterno]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24 (virtual 32.3)
-[Rede Vida, Rede Vida Educação]
+# Physical channel 24 (virtual 24.3)
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -175,8 +175,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 6.1)
-[TV Rio Doce]
+# Physical channel 33 (virtual 6.4)
+[TV Rio Doce, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -262,8 +262,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38 (virtual 13.2)
-[TV Alterosa Leste, TV Educação GV]
+# Physical channel 38 (virtual 13.1)
+[TV Alterosa Leste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

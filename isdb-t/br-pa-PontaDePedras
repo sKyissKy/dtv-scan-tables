@@ -1,8 +1,8 @@
-# Channel table for Ponta De Pedras - PA - Brazil
+# Channel table for PONTA DE PEDRAS-PA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2879
 
 # Physical channel 20 (virtual 52.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

@@ -1,4 +1,4 @@
-# Channel table for Olinda - PE - Brazil
+# Channel table for OLINDA-PE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3555
 
 # Physical channel 14 (virtual 15.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 15 (virtual 14.1)
-[Rede Brasil]
+[Rede Brasil de Comunicação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 17 (virtual 17.1)
-[Record News]
+[Record News SC]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 4.1)
-[TV Tribuna]
+[TV Tribuna/PE]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 22.3)
-[TV Nova, TV Nova Educação, Rádio Nova FM]
+[TV Nova, TV Cultura, Rádio Nova FM]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 31 (virtual 30.2)
-[Rede Século 21, Rede Século 21 Educa]
+# Physical channel 31 (virtual 30.1)
+[Rede Gospel]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
@@ -466,7 +466,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 19.2)
-[RTN TV, Rede Gênesis]
+[TV A Crítica, Rede Gênesis]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -639,8 +639,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 44 (virtual 51.1)
-[Rede Vida]
+# Physical channel 44 (virtual 51.3)
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

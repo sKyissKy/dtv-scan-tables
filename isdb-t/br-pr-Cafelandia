@@ -1,8 +1,8 @@
-# Channel table for Cafel�ndia - PR - Brazil
+# Channel table for CAFELâNDIA-PR - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=736
 
 # Physical channel 16 (virtual 16.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

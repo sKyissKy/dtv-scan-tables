@@ -1,4 +1,4 @@
-# Channel table for Laranjeiras - SE - Brazil
+# Channel table for LARANJEIRAS-SE - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2339
 
 # Physical channel 14 (virtual 7.1)
@@ -321,7 +321,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 39.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -495,7 +495,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 48 (virtual 48.1)
-[TV ALESE, TV Câmara Municipal Aracaju, TV Senado]
+[TV ALESE, TV Câmara Municipal Aracaju, TV Câmara, TV Senado]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

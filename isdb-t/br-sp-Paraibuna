@@ -1,4 +1,4 @@
-# Channel table for Paraibuna - SP - Brazil
+# Channel table for PARAIBUNA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2513
 
 # Physical channel 16 (virtual 17.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 36.1)
-[TV Thathi Vale]
+[TH+ SBT Vale]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 50 (virtual 27.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 50 (virtual 27.4)
+[TV Cultura, Univesp, Rede Alesp, Rede Câmara SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

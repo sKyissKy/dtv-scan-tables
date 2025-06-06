@@ -1,8 +1,8 @@
-# Channel table for Barbacena - MG - Brazil
+# Channel table for BARBACENA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=132
 
 # Physical channel 24 (virtual 6.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857

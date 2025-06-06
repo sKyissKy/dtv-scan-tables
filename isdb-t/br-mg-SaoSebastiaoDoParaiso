@@ -1,8 +1,8 @@
-# Channel table for S�o Sebasti�o Do Para�so - MG - Brazil
+# Channel table for SãO SEBASTIãO DO PARAíSO-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=136
 
 # Physical channel 19 (virtual 19.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857

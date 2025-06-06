@@ -1,8 +1,8 @@
-# Channel table for Buriti Bravo - MA - Brazil
+# Channel table for BURITI BRAVO-MA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1553
 
 # Physical channel 14 (virtual 14.1)
-[TV Meio Norte]
+[Rede Meio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857

@@ -1,4 +1,4 @@
-# Channel table for Passos - MG - Brazil
+# Channel table for PASSOS-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=438
 
 # Physical channel 22 (virtual 22.1)
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 8.4)
-[TV IndSOL, Rede Minas Educa]
+[TV IndSOL, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35 (virtual 35.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857

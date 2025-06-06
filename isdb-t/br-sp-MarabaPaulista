@@ -1,8 +1,8 @@
-# Channel table for Marabá Paulista - SP - Brazil
+# Channel table for MARABÃ¡ PAULISTA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2964
 
-# Physical channel 39 (virtual 2.3)
-[TV Cultura, Univesp, Multicultura]
+# Physical channel 39 (virtual 22.3)
+[Uno TV, Univesp, Rede Alesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

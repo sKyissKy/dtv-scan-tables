@@ -1,4 +1,4 @@
-# Channel table for Rio Grande - RS - Brazil
+# Channel table for RIO GRANDE-RS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=73
 
 # Physical channel 14 (virtual 28.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 15 (virtual 17.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857

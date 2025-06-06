@@ -1,4 +1,4 @@
-# Channel table for Rio Negrinho - SC - Brazil
+# Channel table for RIO NEGRINHO-SC - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1591
 
 # Physical channel 15 (virtual 54.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 16 (virtual 58.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 48.2)
-[NDTV Joinville, TV Inova SC]
+# Physical channel 28 (virtual 48.1)
+[NDTV Joinville]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857

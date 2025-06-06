@@ -1,4 +1,4 @@
-# Channel table for Nova Veneza - SC - Brazil
+# Channel table for NOVA VENEZA-SC - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2184
 
 # Physical channel 24 (virtual 5.1)
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 25.2)
-[NDTV Criciúma, TV Inova SC]
+# Physical channel 30 (virtual 25.1)
+[NDTV Criciúma]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 47 (virtual 3.4)
-[TV Brasil, Canal Gov, TV Escola, Canal Saúde]
+[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857

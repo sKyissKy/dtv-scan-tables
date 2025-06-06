@@ -1,4 +1,4 @@
-# Channel table for Itupeva - SP - Brazil
+# Channel table for ITUPEVA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3088
 
 # Physical channel 16 (virtual 4.1)
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 34.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 46 (virtual 6.1)
-[TV Thathi Campinas]
+[TH+ Record Campinas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

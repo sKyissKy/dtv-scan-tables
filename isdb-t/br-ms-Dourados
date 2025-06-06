@@ -1,4 +1,4 @@
-# Channel table for Dourados - MS - Brazil
+# Channel table for DOURADOS-MS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=152
 
 # Physical channel 26 (virtual 21.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 4.2)
-[TV Educativa MS, TV REME]
+[TV Educativa MS, Canal Gov]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 43 (virtual 43.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857

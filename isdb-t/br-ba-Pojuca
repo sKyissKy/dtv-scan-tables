@@ -1,4 +1,4 @@
-# Channel table for Pojuca - BA - Brazil
+# Channel table for POJUCA-BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1486
 
 # Physical channel 17 (virtual 18.1)
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 25 (virtual 4.3)
-[TV Aratu, Nossa Rede na TV]
+[TV Aratu, Nossa Rede na TV, Nossa Rede na TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -263,7 +263,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 43 (virtual 44.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 46 (virtual 7.1)
-[Band Bahia]
+# Physical channel 46 (virtual 7.2)
+[Band Bahia, Nossa Rede na TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857
@@ -350,7 +350,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 48 (virtual 2.4)
-[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
+[TVE Bahia, Educa Bahia, Rádio Educadora, Canal Gov]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 677142857

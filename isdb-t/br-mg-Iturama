@@ -1,8 +1,8 @@
-# Channel table for Iturama - MG - Brazil
+# Channel table for ITURAMA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=575
 
 # Physical channel 20 (virtual 20.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

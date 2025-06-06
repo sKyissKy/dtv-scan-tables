@@ -1,4 +1,4 @@
-# Channel table for Limeira - SP - Brazil
+# Channel table for LIMEIRA-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=48
 
 # Physical channel 15 (virtual 15.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 19 (virtual 19.2)
-[RTN TV, Rede Gênesis]
+[TV A Crítica, Rede Gênesis]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 32 (virtual 32.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 46 (virtual 6.1)
-[TV Thathi Campinas]
+[TH+ Record Campinas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

@@ -1,8 +1,8 @@
-# Channel table for Mata Verde - MG - Brazil
+# Channel table for MATA VERDE-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4741
 
 # Physical channel 26 (virtual 26.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 545142857

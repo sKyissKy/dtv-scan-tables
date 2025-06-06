@@ -1,4 +1,4 @@
-# Channel table for Ouro Verde De Goiás - GO - Brazil
+# Channel table for OURO VERDE DE GOIÃ¡S-GO - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3546
 
 # Physical channel 15 (virtual 15.1)
@@ -175,8 +175,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 31 (virtual 13.1)
-[TV Brasil Central]
+# Physical channel 31 (virtual 13.2)
+[TV Brasil Central, TV ALEGO]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857

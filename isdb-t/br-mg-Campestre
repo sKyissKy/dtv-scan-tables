@@ -1,8 +1,8 @@
-# Channel table for Campestre - MG - Brazil
+# Channel table for CAMPESTRE-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3087
 
 # Physical channel 12 (virtual 2.4)
-[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 207142857

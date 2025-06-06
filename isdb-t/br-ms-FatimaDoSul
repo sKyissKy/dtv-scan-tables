@@ -1,4 +1,4 @@
-# Channel table for Fátima Do Sul - MS - Brazil
+# Channel table for FÃ¡TIMA DO SUL-MS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=748
 
 # Physical channel 26 (virtual 21.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 4.2)
-[TV Educativa MS, TV REME]
+[TV Educativa MS, Canal Gov]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857

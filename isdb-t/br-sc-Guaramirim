@@ -1,8 +1,8 @@
-# Channel table for Guaramirim - SC - Brazil
+# Channel table for GUARAMIRIM-SC - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1563
 
 # Physical channel 16 (virtual 43.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 44 (virtual 7.2)
-[NDTV Joinville, TV Inova SC]
+# Physical channel 44 (virtual 7.1)
+[NDTV Joinville]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

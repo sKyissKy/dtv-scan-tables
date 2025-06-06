@@ -1,4 +1,4 @@
-# Channel table for Itapemirim - ES - Brazil
+# Channel table for ITAPEMIRIM-ES - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1524
 
 # Physical channel 24 (virtual 13.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 33 (virtual 8.1)
-[Record News ES]
+[TV Capixaba]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 7.1)
-[TV Tribuna]
+[TV Tribuna/ES]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857

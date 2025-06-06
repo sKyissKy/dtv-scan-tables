@@ -1,4 +1,4 @@
-# Channel table for Itagua� - RJ - Brazil
+# Channel table for ITAGUAí-RJ - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=84
 
 # Physical channel 21 (virtual 21.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 22 (virtual 33.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -117,7 +117,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 4.1)
+# Physical channel 28 (virtual 28.1)
 [TV Globo]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

@@ -1,4 +1,4 @@
-# Channel table for Belterra - PA - Brazil
+# Channel table for BELTERRA-PA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=630
 
 # Physical channel 19 (virtual 2.4)
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 23 (virtual 22.1)
+# Physical channel 23 (virtual 4.1)
 [TV Tapajós]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

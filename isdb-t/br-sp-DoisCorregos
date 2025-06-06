@@ -1,4 +1,4 @@
-# Channel table for Dois Córregos - SP - Brazil
+# Channel table for DOIS CÃ³RREGOS-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=868
 
 # Physical channel 18 (virtual 18.1)
@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 19.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, Rede Alesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

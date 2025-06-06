@@ -1,4 +1,4 @@
-# Channel table for Porteirinha - MG - Brazil
+# Channel table for PORTEIRINHA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1973
 
 # Physical channel 20 (virtual 10.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 51 (virtual 51.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 695142857

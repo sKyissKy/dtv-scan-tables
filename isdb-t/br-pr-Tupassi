@@ -1,8 +1,8 @@
-# Channel table for Tup�ssi - PR - Brazil
+# Channel table for TUPãSSI-PR - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=741
 
 # Physical channel 19 (virtual 15.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857

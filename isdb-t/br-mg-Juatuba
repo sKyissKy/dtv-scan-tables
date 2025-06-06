@@ -1,4 +1,4 @@
-# Channel table for Juatuba - MG - Brazil
+# Channel table for JUATUBA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3617
 
 # Physical channel 15 (virtual 55.1)
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 17 (virtual 9.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

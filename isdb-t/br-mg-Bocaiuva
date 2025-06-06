@@ -1,7 +1,7 @@
-# Channel table for Bocaiúva - MG - Brazil
+# Channel table for BOCAIÃºVA-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2762
 
-# Physical channel 35 (virtual 3.1)
+# Physical channel 35 (virtual 35.1)
 [TV Cachoeira]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

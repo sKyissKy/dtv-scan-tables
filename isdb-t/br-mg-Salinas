@@ -1,4 +1,4 @@
-# Channel table for Salinas - MG - Brazil
+# Channel table for SALINAS-MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=251
 
 # Physical channel 21 (virtual 4.1)
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 51 (virtual 51.4)
-[Rede Minas, Rede Minas Educa]
+[Rede Minas, Rede Minas Educa, Rede Minas Educa, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 695142857

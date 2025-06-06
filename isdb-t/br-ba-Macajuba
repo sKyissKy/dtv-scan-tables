@@ -1,8 +1,8 @@
-# Channel table for Macajuba - BA - Brazil
+# Channel table for MACAJUBA-BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1470
 
 # Physical channel 24 (virtual 10.2)
-[TVE Bahia, Educa Bahia]
+[TVE Bahia, Rádio Educadora, Educa Bahia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857

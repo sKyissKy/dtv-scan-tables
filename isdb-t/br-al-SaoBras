@@ -1,8 +1,8 @@
-# Channel table for S�o Br�s - AL - Brazil
+# Channel table for SãO BRáS-AL - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2259
 
 # Physical channel 14 (virtual 14.1)
-[Rede TV!]
+[TV Atalaia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 473142857
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 39.3)
-[Rede Vida, Rede Vida Educação]
+[Rede Vida, Rede Vida +, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857

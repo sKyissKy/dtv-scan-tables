@@ -1,4 +1,4 @@
-# Channel table for São José Do Barreiro - SP - Brazil
+# Channel table for SÃ£O JOSÃ© DO BARREIRO-SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2931
 
 # Physical channel 17 (virtual 9.1)
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 50 (virtual 27.3)
-[TV Cultura, Univesp, Multicultura]
+[TV Cultura, Univesp, Rede Alesp]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 689142857

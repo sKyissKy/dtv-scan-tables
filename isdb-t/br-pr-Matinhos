@@ -1,8 +1,8 @@
-# Channel table for Matinhos - PR - Brazil
+# Channel table for MATINHOS-PR - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=187
 
-# Physical channel 16 (virtual 7.2)
-[TVCI, Aula Paranaguá]
+# Physical channel 16 (virtual 7.1)
+[TVCI]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
