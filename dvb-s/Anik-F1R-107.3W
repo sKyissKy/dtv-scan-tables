@@ -1,14 +1,6 @@
 # Channel table for Anik F1R at 107.3°W
 # Source: http://www.lyngsat.com/Anik-F1R.html
 
-[various]
-	DELIVERY_SYSTEM = DVBS
-	FREQUENCY = 3927000
-	POLARIZATION = VERTICAL
-	SYMBOL_RATE = 7500000
-	INNER_FEC = AUTO
-	INVERSION = AUTO
-
 [CruiseSat]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 4120000

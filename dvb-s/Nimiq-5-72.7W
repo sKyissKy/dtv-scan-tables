@@ -1,11 +1,12 @@
 # Channel table for Nimiq 5 at 72.7°W
 # Source: http://www.lyngsat.com/Nimiq-5.html
 
-[Dish USA]
-	DELIVERY_SYSTEM = DVBS
-	FREQUENCY = 12224000
+[Legislative Assembly of Ontario]
+	DELIVERY_SYSTEM = DVBS2
+	FREQUENCY = 12214000
 	POLARIZATION = RIGHT
-	SYMBOL_RATE = 21500000
+	SYMBOL_RATE = 3399000
+	MODULATION = QPSK
 	INNER_FEC = AUTO
 	INVERSION = AUTO
 
