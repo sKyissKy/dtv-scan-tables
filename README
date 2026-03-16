@@ -73,3 +73,10 @@ under the current dir, the install command would be:
 
 Please also note that install takes some time, as there are lots
 of files to be copied.
+
+INTENDED AUDIENCE
+=================
+
+This project provides frequency tables to be used as part of other
+software components. It doesn't contain any software on it. It is not
+offered as a consumer-facing online service or managed platform.
