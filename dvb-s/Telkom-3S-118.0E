@@ -1,4 +1,4 @@
-# Channel table for Telkom 3S at 118.0°E
+# Channel table for Telkom-3S-118.0E
 # Source: http://www.lyngsat.com/Telkom-3S.html
 
 [Metra TV]
@@ -7,7 +7,7 @@
 	POLARIZATION = HORIZONTAL
 	SYMBOL_RATE = 7500000
 	MODULATION = PSK/8
-	INNER_FEC = AUTO
+	INNER_FEC = 3/4
 	INVERSION = AUTO
 
 [Transvision]
@@ -16,6 +16,6 @@
 	POLARIZATION = HORIZONTAL
 	SYMBOL_RATE = 10000000
 	MODULATION = PSK/8
-	INNER_FEC = AUTO
+	INNER_FEC = 3/5
 	INVERSION = AUTO
 

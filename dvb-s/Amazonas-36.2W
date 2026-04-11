@@ -1,5 +1,5 @@
-# Channel table for Amazonas at 36.2W
-# Source: http://en.kingofsat.net/sat-amazonas.php
+# Channel table for Amazonas-36.2W
+# Source: http://en.kingofsat.net/sat-amazonas
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBS

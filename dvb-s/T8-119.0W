@@ -1,4 +1,4 @@
-# Channel table for T8 at 119.0°W
+# Channel table for T8-119.0W
 # Source: http://www.lyngsat.com/T8.html
 
 [DirecTV USA]
@@ -7,6 +7,6 @@
 	POLARIZATION = LEFT
 	SYMBOL_RATE = 20000000
 	MODULATION = PSK/8
-	INNER_FEC = AUTO
+	INNER_FEC = 2/3
 	INVERSION = AUTO
 

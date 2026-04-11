@@ -1,5 +1,5 @@
-# Channel table for Eutelsat 48C at 1.2E
-# Source: http://en.kingofsat.net/sat-w6.php
+# Channel table for Eutelsat-48C-1.2E
+# Source: http://en.kingofsat.net/sat-w6
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBS
@@ -14,7 +14,7 @@
 	FREQUENCY = 11415000
 	POLARIZATION = VERTICAL
 	SYMBOL_RATE = 18500000
-	INNER_FEC = 3/4
 	MODULATION = PSK/8
+	INNER_FEC = 3/4
 	INVERSION = AUTO
 

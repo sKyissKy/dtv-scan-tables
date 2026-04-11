@@ -1,13 +1,13 @@
-# Channel table for Intelsat 25 at 31.5W
-# Source: http://en.kingofsat.net/sat-i25.php
+# Channel table for Intelsat-25-31.5W
+# Source: http://en.kingofsat.net/sat-i25
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 3677000
 	POLARIZATION = VERTICAL
 	SYMBOL_RATE = 1482000
-	INNER_FEC = 3/4
 	MODULATION = QPSK
+	INNER_FEC = 3/4
 	INVERSION = AUTO
 
 [CHANNEL]
@@ -23,8 +23,8 @@
 	FREQUENCY = 12285000
 	POLARIZATION = VERTICAL
 	SYMBOL_RATE = 30000000
-	INNER_FEC = 2/3
 	MODULATION = PSK/8
+	INNER_FEC = 2/3
 	INVERSION = AUTO
 
 [CHANNEL]

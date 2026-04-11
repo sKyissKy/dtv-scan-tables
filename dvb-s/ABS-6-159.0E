@@ -1,4 +1,4 @@
-# Channel table for ABS 6 at 159.0°E
+# Channel table for ABS-6-159.0E
 # Source: http://www.lyngsat.com/ABS-6.html
 
 [IBC]
@@ -7,6 +7,6 @@
 	POLARIZATION = VERTICAL
 	SYMBOL_RATE = 5563000
 	MODULATION = PSK/8
-	INNER_FEC = AUTO
+	INNER_FEC = 3/5
 	INVERSION = AUTO
 

@@ -1,13 +1,13 @@
-# Channel table for Astra 1G at 31.5E
-# Source: http://en.kingofsat.net/sat-astra1g.php
+# Channel table for Astra-1G-31.5E
+# Source: http://en.kingofsat.net/sat-astra1g
 
 [CHANNEL]
 	DELIVERY_SYSTEM = DVBS2
 	FREQUENCY = 11836000
 	POLARIZATION = HORIZONTAL
 	SYMBOL_RATE = 30000000
-	INNER_FEC = 2/3
 	MODULATION = PSK/8
+	INNER_FEC = 2/3
 	INVERSION = AUTO
 
 [CHANNEL]
@@ -15,8 +15,8 @@
 	FREQUENCY = 11895000
 	POLARIZATION = VERTICAL
 	SYMBOL_RATE = 30000000
-	INNER_FEC = 3/4
 	MODULATION = APSK/32
+	INNER_FEC = 3/4
 	INVERSION = AUTO
 
 [CHANNEL]
